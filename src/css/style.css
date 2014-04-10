@@ -1,0 +1,18 @@
+textarea{
+    background-color: black;
+    color: #6F0;
+    font-size: 14px;
+    width: 600px;
+    margin-top: 300px;
+    resize: none;
+}
+
+.content{
+    position: absolute;
+    background: transparent;
+    min-width: 600px;
+    width: 600px;
+    height: 680px;
+    top: 0;
+    left: 30%;
+}
